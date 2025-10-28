@@ -1,0 +1,1006 @@
+2024-08-06 13:37:27,296    : -----Naukri.py Script Run Begin-----
+2024-08-06 13:37:27,296    : ====== WebDriver manager ======
+2024-08-06 13:37:31,653    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:37:31,802    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:37:31,859    : There is no [win64] chromedriver "127.0.6533.88" for browser google-chrome "127.0.6533" in cache
+2024-08-06 13:37:31,859    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:37:32,027    : WebDriver version 127.0.6533.88 selected
+2024-08-06 13:37:32,029    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-06 13:37:32,029    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-06 13:37:32,157    : Driver downloading response is 200
+2024-08-06 13:37:33,128    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:37:33,290    : Driver has been saved in cache [C:\Users\ganir\Downloads\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.88]
+2024-08-06 13:37:35,417    : Google Chrome Launched!
+2024-08-06 13:37:42,922    : Website Loaded Successfully.
+2024-08-06 13:37:58,311    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-06 13:38:16,044    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 138.
+2024-08-06 13:38:16,045    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 145.
+2024-08-06 13:40:41,636    : -----Naukri.py Script Run Begin-----
+2024-08-06 13:40:41,636    : ====== WebDriver manager ======
+2024-08-06 13:40:43,475    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:40:43,768    : Get LATEST chromedriver version for google-chrome
+2024-08-06 13:40:43,830    : Driver [C:\Users\ganir\Downloads\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.88\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-06 13:40:45,109    : Google Chrome Launched!
+2024-08-06 13:40:46,478    : Website Loaded Successfully.
+2024-08-06 13:41:01,918    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-06 13:41:02,929    : Naukri Login Successful
+2024-08-06 13:41:29,789    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-06 13:41:32,844    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-06 13:41:32,846    : Mobile number element not found in UI
+2024-08-06 13:41:42,914    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-06 13:41:45,927    : Profile Update Failed
+2024-08-06 13:41:51,228    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-06 13:42:03,510    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-06 13:42:09,610    : Element not found with ID : //button[@type='button']
+2024-08-06 13:42:10,636    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 06, 2024
+2024-08-06 13:42:12,833    : Driver Closed Successfully
+2024-08-06 13:42:15,009    : Driver Quit Successfully
+2024-08-06 13:42:15,012    : -----Naukri.py Script Run Ended-----
+
+2024-08-06 17:17:27,398    : -----Naukri.py Script Run Begin-----
+2024-08-06 17:17:27,418    : ====== WebDriver manager ======
+2024-08-06 17:17:30,748    : Get LATEST chromedriver version for google-chrome
+2024-08-06 17:17:30,824    : Get LATEST chromedriver version for google-chrome
+2024-08-06 17:17:30,896    : Driver [C:\Users\ganir\Downloads\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.88\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-06 17:17:33,181    : Google Chrome Launched!
+2024-08-06 17:17:35,327    : Website Loaded Successfully.
+2024-08-06 17:17:50,646    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-06 17:17:51,658    : Naukri Login Successful
+2024-08-06 17:18:03,409    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-06 17:18:24,706    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-06 17:18:27,753    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-06 17:18:27,754    : Mobile number element not found in UI
+2024-08-06 17:18:28,762    : Profile Update Successful
+2024-08-06 17:18:33,776    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-06 17:18:46,381    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-06 17:18:52,436    : Element not found with ID : //button[@type='button']
+2024-08-06 17:18:53,457    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 06, 2024
+2024-08-06 17:18:55,607    : Driver Closed Successfully
+2024-08-06 17:18:57,973    : Driver Quit Successfully
+2024-08-06 17:18:57,973    : -----Naukri.py Script Run Ended-----
+
+2024-08-07 09:52:56,134    : -----Naukri.py Script Run Begin-----
+2024-08-07 09:52:56,176    : ====== WebDriver manager ======
+2024-08-07 09:53:18,059    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 138.
+2024-08-07 09:53:18,059    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 145.
+2024-08-07 09:54:47,021    : -----Naukri.py Script Run Begin-----
+2024-08-07 09:54:47,021    : ====== WebDriver manager ======
+2024-08-07 09:54:56,995    : Get LATEST chromedriver version for google-chrome
+2024-08-07 09:54:57,406    : Get LATEST chromedriver version for google-chrome
+2024-08-07 09:54:57,469    : There is no [win64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-07 09:54:57,469    : Get LATEST chromedriver version for google-chrome
+2024-08-07 09:54:57,643    : WebDriver version 127.0.6533.99 selected
+2024-08-07 09:54:57,646    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-07 09:54:57,646    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-07 09:54:57,730    : Driver downloading response is 200
+2024-08-07 09:54:58,683    : Get LATEST chromedriver version for google-chrome
+2024-08-07 09:54:59,299    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99]
+2024-08-07 09:55:10,863    : Google Chrome Launched!
+2024-08-07 09:55:13,486    : Website Loaded Successfully.
+2024-08-07 09:55:28,944    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-07 09:55:29,954    : Naukri Login Successful
+2024-08-07 09:55:42,585    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 09:56:03,947    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 09:56:06,967    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 09:56:06,967    : Mobile number element not found in UI
+2024-08-07 09:56:17,011    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-07 09:56:20,034    : Profile Update Failed
+2024-08-07 09:56:26,651    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-07 09:56:38,995    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 09:56:45,109    : Element not found with ID : //button[@type='button']
+2024-08-07 09:56:46,235    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 07, 2024
+2024-08-07 09:56:48,521    : Driver Closed Successfully
+2024-08-07 09:56:51,311    : Driver Quit Successfully
+2024-08-07 09:56:51,311    : -----Naukri.py Script Run Ended-----
+
+2024-08-07 11:09:43,058    : -----Naukri.py Script Run Begin-----
+2024-08-07 11:09:43,089    : ====== WebDriver manager ======
+2024-08-07 11:09:46,226    : Get LATEST chromedriver version for google-chrome
+2024-08-07 11:09:52,701    : Get LATEST chromedriver version for google-chrome
+2024-08-07 11:09:56,494    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-07 11:10:01,832    : Google Chrome Launched!
+2024-08-07 11:10:33,819    : Website Loaded Successfully.
+2024-08-07 11:10:57,618    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-07 11:10:58,668    : Naukri Login Successful
+2024-08-07 11:11:37,217    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 11:11:58,391    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 11:12:01,405    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 11:12:01,405    : Mobile number element not found in UI
+2024-08-07 11:12:02,412    : Profile Update Successful
+2024-08-07 11:12:07,430    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-07 11:12:20,263    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 11:12:26,353    : Element not found with ID : //button[@type='button']
+2024-08-07 11:12:27,470    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 07, 2024
+2024-08-07 11:12:29,675    : Driver Closed Successfully
+2024-08-07 11:12:32,094    : Driver Quit Successfully
+2024-08-07 11:12:32,095    : -----Naukri.py Script Run Ended-----
+
+2024-08-07 14:10:38,735    : -----Naukri.py Script Run Begin-----
+2024-08-07 14:10:38,747    : ====== WebDriver manager ======
+2024-08-07 14:10:46,149    : Get LATEST chromedriver version for google-chrome
+2024-08-07 14:10:47,107    : Get LATEST chromedriver version for google-chrome
+2024-08-07 14:10:48,782    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-07 14:10:50,994    : Google Chrome Launched!
+2024-08-07 14:10:57,674    : Website Loaded Successfully.
+2024-08-07 14:11:13,640    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-07 14:11:14,714    : Naukri Login Successful
+2024-08-07 14:11:27,023    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 14:11:48,398    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 14:11:51,471    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-07 14:11:51,472    : Mobile number element not found in UI
+2024-08-07 14:11:52,528    : Profile Update Successful
+2024-08-07 14:11:57,575    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-07 14:12:10,181    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-07 14:12:16,348    : Element not found with ID : //button[@type='button']
+2024-08-07 14:12:17,477    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 07, 2024
+2024-08-07 14:12:19,621    : Driver Closed Successfully
+2024-08-07 14:12:21,814    : Driver Quit Successfully
+2024-08-07 14:12:21,814    : -----Naukri.py Script Run Ended-----
+
+2024-08-12 09:50:01,189    : -----Naukri.py Script Run Begin-----
+2024-08-12 09:50:01,211    : ====== WebDriver manager ======
+2024-08-12 09:50:03,408    : Get LATEST chromedriver version for google-chrome
+2024-08-12 09:50:03,504    : Get LATEST chromedriver version for google-chrome
+2024-08-12 09:50:03,573    : Get LATEST chromedriver version for google-chrome
+2024-08-12 09:50:03,716    : WebDriver version 127.0.6533.99 selected
+2024-08-12 09:50:03,718    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-12 09:50:03,718    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-12 09:50:04,110    : Driver downloading response is 200
+2024-08-12 09:50:05,132    : Get LATEST chromedriver version for google-chrome
+2024-08-12 09:50:05,342    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99]
+2024-08-12 09:50:07,424    : Google Chrome Launched!
+2024-08-12 09:50:12,542    : Website Loaded Successfully.
+2024-08-12 09:50:27,807    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-12 09:50:28,817    : Naukri Login Successful
+2024-08-12 09:50:54,451    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-12 09:50:57,504    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-12 09:50:57,704    : Mobile number element not found in UI
+2024-08-12 09:51:07,713    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-12 09:51:10,767    : Profile Update Failed
+2024-08-12 09:51:15,779    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-12 09:51:28,091    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-12 09:51:34,182    : Element not found with ID : //button[@type='button']
+2024-08-12 09:51:35,201    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 12, 2024
+2024-08-12 09:51:37,297    : Driver Closed Successfully
+2024-08-12 09:51:39,438    : Driver Quit Successfully
+2024-08-12 09:51:39,438    : -----Naukri.py Script Run Ended-----
+
+2024-08-12 11:47:50,909    : -----Naukri.py Script Run Begin-----
+2024-08-12 11:47:50,942    : ====== WebDriver manager ======
+2024-08-12 11:47:55,116    : Get LATEST chromedriver version for google-chrome
+2024-08-12 11:47:55,267    : Get LATEST chromedriver version for google-chrome
+2024-08-12 11:47:55,347    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-12 11:47:58,649    : Google Chrome Launched!
+2024-08-12 11:48:01,039    : Website Loaded Successfully.
+2024-08-12 11:48:16,389    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-12 11:48:17,399    : Naukri Login Successful
+2024-08-12 11:48:28,970    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-12 11:48:50,061    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-12 11:48:53,119    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-12 11:48:53,120    : Mobile number element not found in UI
+2024-08-12 11:48:54,130    : Profile Update Successful
+2024-08-12 11:48:59,136    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-12 11:49:12,348    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-12 11:49:18,433    : Element not found with ID : //button[@type='button']
+2024-08-12 11:49:19,557    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 12, 2024
+2024-08-12 11:49:21,752    : Driver Closed Successfully
+2024-08-12 11:49:24,053    : Driver Quit Successfully
+2024-08-12 11:49:24,053    : -----Naukri.py Script Run Ended-----
+
+2024-08-13 10:36:09,563    : -----Naukri.py Script Run Begin-----
+2024-08-13 10:36:09,563    : ====== WebDriver manager ======
+2024-08-13 10:36:13,619    : Get LATEST chromedriver version for google-chrome
+2024-08-13 10:36:14,005    : Get LATEST chromedriver version for google-chrome
+2024-08-13 10:36:14,093    : Get LATEST chromedriver version for google-chrome
+2024-08-13 10:36:14,237    : WebDriver version 127.0.6533.99 selected
+2024-08-13 10:36:14,237    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-13 10:36:14,237    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-13 10:36:14,422    : Driver downloading response is 200
+2024-08-13 10:36:17,070    : Get LATEST chromedriver version for google-chrome
+2024-08-13 10:36:17,484    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99]
+2024-08-13 10:36:19,537    : Google Chrome Launched!
+2024-08-13 10:36:26,282    : Website Loaded Successfully.
+2024-08-13 10:36:41,893    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-13 10:36:42,916    : Naukri Login Successful
+2024-08-13 10:36:55,289    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-13 10:37:16,559    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 10:37:19,590    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 10:37:19,590    : Mobile number element not found in UI
+2024-08-13 10:37:29,725    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-13 10:37:32,817    : Profile Update Failed
+2024-08-13 10:37:37,824    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-13 10:37:50,267    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-13 10:37:56,463    : Element not found with ID : //button[@type='button']
+2024-08-13 10:37:57,671    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 13, 2024
+2024-08-13 10:37:59,832    : Driver Closed Successfully
+2024-08-13 10:38:02,024    : Driver Quit Successfully
+2024-08-13 10:38:02,024    : -----Naukri.py Script Run Ended-----
+
+2024-08-13 12:12:18,408    : -----Naukri.py Script Run Begin-----
+2024-08-13 12:12:18,443    : ====== WebDriver manager ======
+2024-08-13 12:12:22,352    : Get LATEST chromedriver version for google-chrome
+2024-08-13 12:12:22,611    : Get LATEST chromedriver version for google-chrome
+2024-08-13 12:12:22,675    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 12:12:25,155    : Google Chrome Launched!
+2024-08-13 12:12:39,095    : Website Loaded Successfully.
+2024-08-13 12:12:54,564    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-13 12:12:55,575    : Naukri Login Successful
+2024-08-13 12:13:07,857    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-13 12:13:29,017    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 12:13:32,052    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 12:13:32,288    : Mobile number element not found in UI
+2024-08-13 12:13:33,310    : Profile Update Successful
+2024-08-13 12:13:38,365    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-13 12:13:50,846    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-13 12:13:56,893    : Element not found with ID : //button[@type='button']
+2024-08-13 12:13:57,939    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 13, 2024
+2024-08-13 12:14:00,121    : Driver Closed Successfully
+2024-08-13 12:14:02,326    : Driver Quit Successfully
+2024-08-13 12:14:02,326    : -----Naukri.py Script Run Ended-----
+
+2024-08-13 14:57:52,497    : -----Naukri.py Script Run Begin-----
+2024-08-13 14:57:52,497    : ====== WebDriver manager ======
+2024-08-13 14:57:55,019    : Get LATEST chromedriver version for google-chrome
+2024-08-13 14:57:55,177    : Get LATEST chromedriver version for google-chrome
+2024-08-13 14:57:55,251    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:57:57,343    : Google Chrome Launched!
+2024-08-13 14:58:01,884    : Website Loaded Successfully.
+2024-08-13 14:58:17,237    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-13 14:58:18,279    : Naukri Login Successful
+2024-08-13 14:58:45,770    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 14:58:48,795    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-13 14:58:48,795    : Mobile number element not found in UI
+2024-08-13 14:58:49,800    : Profile Update Successful
+2024-08-13 14:58:54,831    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-13 14:59:07,498    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-13 14:59:13,665    : Element not found with ID : //button[@type='button']
+2024-08-13 14:59:15,135    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 13, 2024
+2024-08-13 14:59:17,390    : Driver Closed Successfully
+2024-08-13 14:59:19,856    : Driver Quit Successfully
+2024-08-13 14:59:19,856    : -----Naukri.py Script Run Ended-----
+
+2024-08-14 10:45:42,040    : -----Naukri.py Script Run Begin-----
+2024-08-14 10:45:42,139    : ====== WebDriver manager ======
+2024-08-14 10:45:46,661    : Get LATEST chromedriver version for google-chrome
+2024-08-14 10:45:46,771    : Get LATEST chromedriver version for google-chrome
+2024-08-14 10:45:46,824    : There is no [win64] chromedriver "127.0.6533.119" for browser google-chrome "127.0.6533" in cache
+2024-08-14 10:45:46,824    : Get LATEST chromedriver version for google-chrome
+2024-08-14 10:45:46,959    : WebDriver version 127.0.6533.119 selected
+2024-08-14 10:45:46,962    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-14 10:45:46,962    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-14 10:45:47,221    : Driver downloading response is 200
+2024-08-14 10:45:48,194    : Get LATEST chromedriver version for google-chrome
+2024-08-14 10:45:48,430    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-14 10:45:50,305    : Google Chrome Launched!
+2024-08-14 10:45:52,899    : Website Loaded Successfully.
+2024-08-14 10:46:08,308    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-14 10:46:09,320    : Naukri Login Successful
+2024-08-14 10:46:23,773    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 10:46:44,841    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 10:46:47,886    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 10:46:47,886    : Mobile number element not found in UI
+2024-08-14 10:46:57,890    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-14 10:47:00,924    : Profile Update Failed
+2024-08-14 10:47:06,187    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-14 10:47:18,500    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 10:47:24,624    : Element not found with ID : //button[@type='button']
+2024-08-14 10:47:25,710    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 14, 2024
+2024-08-14 10:47:27,960    : Driver Closed Successfully
+2024-08-14 10:47:30,179    : Driver Quit Successfully
+2024-08-14 10:47:30,180    : -----Naukri.py Script Run Ended-----
+
+2024-08-14 12:17:34,928    : -----Naukri.py Script Run Begin-----
+2024-08-14 12:17:34,929    : ====== WebDriver manager ======
+2024-08-14 12:17:49,712    : Get LATEST chromedriver version for google-chrome
+2024-08-14 12:17:49,855    : Get LATEST chromedriver version for google-chrome
+2024-08-14 12:17:50,032    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 12:17:52,682    : Google Chrome Launched!
+2024-08-14 12:17:56,710    : Website Loaded Successfully.
+2024-08-14 12:18:12,005    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-14 12:18:13,014    : Naukri Login Successful
+2024-08-14 12:18:25,009    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 12:18:46,087    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 12:18:49,143    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 12:18:49,143    : Mobile number element not found in UI
+2024-08-14 12:18:50,149    : Profile Update Successful
+2024-08-14 12:18:55,164    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-14 12:19:07,416    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 12:19:13,457    : Element not found with ID : //button[@type='button']
+2024-08-14 12:19:14,487    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 14, 2024
+2024-08-14 12:19:16,833    : Driver Closed Successfully
+2024-08-14 12:19:19,047    : Driver Quit Successfully
+2024-08-14 12:19:19,047    : -----Naukri.py Script Run Ended-----
+
+2024-08-14 14:16:19,750    : -----Naukri.py Script Run Begin-----
+2024-08-14 14:16:19,848    : ====== WebDriver manager ======
+2024-08-14 14:16:22,298    : Get LATEST chromedriver version for google-chrome
+2024-08-14 14:16:42,199    : Google Chrome Launched!
+2024-08-14 14:16:46,435    : Website Loaded Successfully.
+2024-08-14 14:17:01,712    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-14 14:17:02,737    : Naukri Login Successful
+2024-08-14 14:17:14,121    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 14:17:35,203    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 14:17:38,229    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 14:17:38,229    : Mobile number element not found in UI
+2024-08-14 14:17:39,234    : Profile Update Successful
+2024-08-14 14:17:44,247    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-14 14:18:35,845    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 14:18:41,868    : Element not found with ID : //button[@type='button']
+2024-08-14 14:18:42,887    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 14, 2024
+2024-08-14 14:18:45,077    : Driver Closed Successfully
+2024-08-14 14:18:47,264    : Driver Quit Successfully
+2024-08-14 14:18:47,264    : -----Naukri.py Script Run Ended-----
+
+2024-08-14 16:35:23,374    : -----Naukri.py Script Run Begin-----
+2024-08-14 16:35:23,374    : ====== WebDriver manager ======
+2024-08-14 16:35:29,054    : Get LATEST chromedriver version for google-chrome
+2024-08-14 16:35:29,258    : Get LATEST chromedriver version for google-chrome
+2024-08-14 16:35:29,442    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 16:35:32,918    : Google Chrome Launched!
+2024-08-14 16:35:36,205    : Website Loaded Successfully.
+2024-08-14 16:35:51,519    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-14 16:35:52,529    : Naukri Login Successful
+2024-08-14 16:36:03,964    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 16:36:25,043    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 16:36:28,050    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-14 16:36:28,050    : Mobile number element not found in UI
+2024-08-14 16:36:29,056    : Profile Update Successful
+2024-08-14 16:36:34,381    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-14 16:36:46,618    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-14 16:36:52,776    : Element not found with ID : //button[@type='button']
+2024-08-14 16:36:53,821    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 14, 2024
+2024-08-14 16:36:55,959    : Driver Closed Successfully
+2024-08-14 16:36:58,172    : Driver Quit Successfully
+2024-08-14 16:36:58,173    : -----Naukri.py Script Run Ended-----
+
+2024-08-20 12:21:54,701    : -----Naukri.py Script Run Begin-----
+2024-08-20 12:21:54,720    : ====== WebDriver manager ======
+2024-08-20 12:21:59,717    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:21:59,920    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:22:00,085    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:22:00,287    : WebDriver version 127.0.6533.119 selected
+2024-08-20 12:22:00,289    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-20 12:22:00,289    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-20 12:22:00,557    : Driver downloading response is 200
+2024-08-20 12:22:01,632    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:22:01,978    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-20 12:22:03,824    : Google Chrome Launched!
+2024-08-20 12:22:08,611    : Website Loaded Successfully.
+2024-08-20 12:22:23,865    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-20 12:22:24,873    : Naukri Login Successful
+2024-08-20 12:22:50,464    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 12:22:53,512    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 12:22:53,512    : Mobile number element not found in UI
+2024-08-20 12:22:54,517    : Profile Update Successful
+2024-08-20 12:22:59,664    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-20 12:23:11,923    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 12:23:18,000    : Element not found with ID : //button[@type='button']
+2024-08-20 12:23:19,021    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 20, 2024
+2024-08-20 12:23:21,134    : Driver Closed Successfully
+2024-08-20 12:23:23,320    : Driver Quit Successfully
+2024-08-20 12:23:23,320    : -----Naukri.py Script Run Ended-----
+
+2024-08-20 12:31:12,273    : -----Naukri.py Script Run Begin-----
+2024-08-20 12:31:12,273    : ====== WebDriver manager ======
+2024-08-20 12:31:15,427    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:31:15,721    : Get LATEST chromedriver version for google-chrome
+2024-08-20 12:31:15,972    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-20 12:31:18,440    : Google Chrome Launched!
+2024-08-20 12:31:22,978    : Website Loaded Successfully.
+2024-08-20 12:31:38,265    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-20 12:31:39,273    : Naukri Login Successful
+2024-08-20 12:31:51,085    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 12:32:12,170    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 12:32:15,246    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 12:32:15,246    : Mobile number element not found in UI
+2024-08-20 12:32:16,251    : Profile Update Successful
+2024-08-20 12:32:21,268    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-20 12:32:34,133    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 12:32:40,249    : Element not found with ID : //button[@type='button']
+2024-08-20 12:32:41,498    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 20, 2024
+2024-08-20 12:32:43,641    : Driver Closed Successfully
+2024-08-20 12:32:45,804    : Driver Quit Successfully
+2024-08-20 12:32:45,805    : -----Naukri.py Script Run Ended-----
+
+2024-08-20 14:14:22,339    : -----Naukri.py Script Run Begin-----
+2024-08-20 14:14:22,447    : ====== WebDriver manager ======
+2024-08-20 14:14:25,451    : Get LATEST chromedriver version for google-chrome
+2024-08-20 14:14:25,622    : Get LATEST chromedriver version for google-chrome
+2024-08-20 14:14:25,699    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-20 14:14:27,671    : Google Chrome Launched!
+2024-08-20 14:14:30,800    : Website Loaded Successfully.
+2024-08-20 14:14:46,167    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-20 14:14:47,174    : Naukri Login Successful
+2024-08-20 14:14:58,941    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 14:15:20,052    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 14:15:23,107    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 14:15:23,107    : Mobile number element not found in UI
+2024-08-20 14:15:24,123    : Profile Update Successful
+2024-08-20 14:15:29,143    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-20 14:15:41,402    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 14:15:47,469    : Element not found with ID : //button[@type='button']
+2024-08-20 14:15:48,571    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 20, 2024
+2024-08-20 14:15:50,780    : Driver Closed Successfully
+2024-08-20 14:15:52,932    : Driver Quit Successfully
+2024-08-20 14:15:52,932    : -----Naukri.py Script Run Ended-----
+
+2024-08-20 16:52:00,003    : -----Naukri.py Script Run Begin-----
+2024-08-20 16:52:00,093    : ====== WebDriver manager ======
+2024-08-20 16:52:02,877    : Get LATEST chromedriver version for google-chrome
+2024-08-20 16:52:03,096    : Get LATEST chromedriver version for google-chrome
+2024-08-20 16:52:03,165    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-20 16:52:04,411    : Google Chrome Launched!
+2024-08-20 16:52:06,639    : Website Loaded Successfully.
+2024-08-20 16:52:21,991    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-20 16:52:22,999    : Naukri Login Successful
+2024-08-20 16:52:34,762    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 16:52:55,883    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 16:52:58,934    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-20 16:52:58,934    : Mobile number element not found in UI
+2024-08-20 16:52:59,940    : Profile Update Successful
+2024-08-20 16:53:04,947    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-20 16:53:17,443    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-20 16:53:23,472    : Element not found with ID : //button[@type='button']
+2024-08-20 16:53:24,521    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 20, 2024
+2024-08-20 16:53:26,637    : Driver Closed Successfully
+2024-08-20 16:53:28,800    : Driver Quit Successfully
+2024-08-20 16:53:28,800    : -----Naukri.py Script Run Ended-----
+
+2024-08-21 10:46:35,691    : -----Naukri.py Script Run Begin-----
+2024-08-21 10:46:35,735    : ====== WebDriver manager ======
+2024-08-21 10:46:39,532    : Get LATEST chromedriver version for google-chrome
+2024-08-21 10:46:40,552    : Get LATEST chromedriver version for google-chrome
+2024-08-21 10:46:41,821    : Get LATEST chromedriver version for google-chrome
+2024-08-21 10:46:44,781    : WebDriver version 127.0.6533.119 selected
+2024-08-21 10:46:44,783    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-21 10:46:44,783    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-21 10:46:46,627    : Driver downloading response is 200
+2024-08-21 10:47:04,278    : Get LATEST chromedriver version for google-chrome
+2024-08-21 10:47:04,628    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-21 10:47:07,414    : Google Chrome Launched!
+2024-08-21 10:47:11,614    : Website Loaded Successfully.
+2024-08-21 10:47:26,875    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-21 10:47:27,882    : Naukri Login Successful
+2024-08-21 10:47:54,475    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-21 10:47:57,525    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-21 10:47:57,525    : Mobile number element not found in UI
+2024-08-21 10:47:58,539    : Profile Update Successful
+2024-08-21 10:48:04,292    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-21 10:48:16,648    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-21 10:48:22,725    : Element not found with ID : //button[@type='button']
+2024-08-21 10:48:23,913    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 21, 2024
+2024-08-21 10:48:26,170    : Driver Closed Successfully
+2024-08-21 10:48:28,362    : Driver Quit Successfully
+2024-08-21 10:48:28,362    : -----Naukri.py Script Run Ended-----
+
+2024-08-22 19:57:50,133    : -----Naukri.py Script Run Begin-----
+2024-08-22 19:57:50,157    : ====== WebDriver manager ======
+2024-08-22 19:57:53,576    : Get LATEST chromedriver version for google-chrome
+2024-08-22 19:57:53,719    : Get LATEST chromedriver version for google-chrome
+2024-08-22 19:57:53,840    : Get LATEST chromedriver version for google-chrome
+2024-08-22 19:57:54,019    : WebDriver version 127.0.6533.119 selected
+2024-08-22 19:57:54,019    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-22 19:57:54,019    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-22 19:57:54,136    : Driver downloading response is 200
+2024-08-22 19:57:54,609    : Get LATEST chromedriver version for google-chrome
+2024-08-22 19:57:54,970    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-22 19:57:56,671    : Google Chrome Launched!
+2024-08-22 19:57:57,809    : Website Loaded Successfully.
+2024-08-22 19:58:13,485    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-22 19:58:14,505    : Naukri Login Successful
+2024-08-22 19:58:26,307    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-22 19:58:48,032    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-22 19:58:51,065    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-22 19:58:51,065    : Mobile number element not found in UI
+2024-08-22 19:59:01,249    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-22 19:59:04,279    : Profile Update Failed
+2024-08-22 19:59:09,325    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-22 19:59:21,988    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-22 19:59:28,297    : Element not found with ID : //button[@type='button']
+2024-08-22 19:59:29,424    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 22, 2024
+2024-08-22 19:59:31,711    : Driver Closed Successfully
+2024-08-22 19:59:33,906    : Driver Quit Successfully
+2024-08-22 19:59:33,906    : -----Naukri.py Script Run Ended-----
+
+2024-08-22 20:00:03,631    : -----Naukri.py Script Run Begin-----
+2024-08-22 20:00:03,631    : ====== WebDriver manager ======
+2024-08-22 20:00:06,760    : Get LATEST chromedriver version for google-chrome
+2024-08-22 20:00:06,878    : Get LATEST chromedriver version for google-chrome
+2024-08-22 20:00:06,944    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-22 20:00:08,270    : Google Chrome Launched!
+2024-08-22 20:00:10,603    : Website Loaded Successfully.
+2024-08-22 20:00:26,568    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-22 20:00:27,580    : Naukri Login Successful
+2024-08-22 20:00:39,612    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-22 20:01:01,303    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-22 20:01:04,331    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-22 20:01:04,331    : Mobile number element not found in UI
+2024-08-22 20:01:05,383    : Profile Update Successful
+2024-08-22 20:01:10,407    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-22 20:01:23,172    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-22 20:01:29,446    : Element not found with ID : //button[@type='button']
+2024-08-22 20:01:30,543    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 22, 2024
+2024-08-22 20:01:32,822    : Driver Closed Successfully
+2024-08-22 20:01:35,008    : Driver Quit Successfully
+2024-08-22 20:01:35,008    : -----Naukri.py Script Run Ended-----
+
+2024-08-26 11:04:55,301    : -----Naukri.py Script Run Begin-----
+2024-08-26 11:04:55,328    : ====== WebDriver manager ======
+2024-08-26 11:04:58,221    : Get LATEST chromedriver version for google-chrome
+2024-08-26 11:04:58,381    : Get LATEST chromedriver version for google-chrome
+2024-08-26 11:04:58,444    : There is no [win64] chromedriver "128.0.6613.84" for browser google-chrome "128.0.6613" in cache
+2024-08-26 11:04:58,445    : Get LATEST chromedriver version for google-chrome
+2024-08-26 11:04:58,598    : WebDriver version 128.0.6613.84 selected
+2024-08-26 11:04:58,600    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-26 11:04:58,600    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-26 11:04:58,753    : Driver downloading response is 200
+2024-08-26 11:04:59,296    : Get LATEST chromedriver version for google-chrome
+2024-08-26 11:04:59,654    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84]
+2024-08-26 11:05:01,119    : Google Chrome Launched!
+2024-08-26 11:05:02,387    : Website Loaded Successfully.
+2024-08-26 11:05:17,642    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-26 11:05:18,652    : Naukri Login Successful
+2024-08-26 11:05:44,175    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-26 11:05:47,182    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-26 11:05:47,182    : Mobile number element not found in UI
+2024-08-26 11:05:57,170    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-26 11:06:00,218    : Profile Update Failed
+2024-08-26 11:06:05,222    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-26 11:06:17,487    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-26 11:06:23,607    : Element not found with ID : //button[@type='button']
+2024-08-26 11:06:24,625    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 26, 2024
+2024-08-26 11:06:26,723    : Driver Closed Successfully
+2024-08-26 11:06:28,882    : Driver Quit Successfully
+2024-08-26 11:06:28,882    : -----Naukri.py Script Run Ended-----
+
+2024-08-26 13:35:03,012    : -----Naukri.py Script Run Begin-----
+2024-08-26 13:35:03,019    : ====== WebDriver manager ======
+2024-08-26 13:35:04,680    : Get LATEST chromedriver version for google-chrome
+2024-08-26 13:35:04,836    : Get LATEST chromedriver version for google-chrome
+2024-08-26 13:35:04,890    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-26 13:35:09,044    : Google Chrome Launched!
+2024-08-26 13:35:10,189    : Website Loaded Successfully.
+2024-08-26 13:35:25,458    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-26 13:35:26,466    : Naukri Login Successful
+2024-08-26 13:35:37,977    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-26 13:35:59,053    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-26 13:36:02,063    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-26 13:36:02,064    : Mobile number element not found in UI
+2024-08-26 13:36:03,075    : Profile Update Successful
+2024-08-26 13:36:08,086    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-26 13:36:20,304    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-26 13:36:26,448    : Element not found with ID : //button[@type='button']
+2024-08-26 13:36:27,847    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 26, 2024
+2024-08-26 13:36:30,138    : Driver Closed Successfully
+2024-08-26 13:36:32,620    : Driver Quit Successfully
+2024-08-26 13:36:32,620    : -----Naukri.py Script Run Ended-----
+
+2024-08-27 09:44:57,433    : -----Naukri.py Script Run Begin-----
+2024-08-27 09:44:57,449    : ====== WebDriver manager ======
+2024-08-27 09:45:00,101    : Get LATEST chromedriver version for google-chrome
+2024-08-27 09:45:00,198    : Get LATEST chromedriver version for google-chrome
+2024-08-27 09:45:00,289    : Get LATEST chromedriver version for google-chrome
+2024-08-27 09:45:00,421    : WebDriver version 128.0.6613.84 selected
+2024-08-27 09:45:00,423    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-27 09:45:00,423    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-27 09:45:00,615    : Driver downloading response is 200
+2024-08-27 09:45:01,135    : Get LATEST chromedriver version for google-chrome
+2024-08-27 09:45:01,314    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84]
+2024-08-27 09:45:02,858    : Google Chrome Launched!
+2024-08-27 09:45:04,705    : Website Loaded Successfully.
+2024-08-27 09:45:19,941    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-27 09:45:20,953    : Naukri Login Successful
+2024-08-27 09:45:32,341    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 09:45:53,455    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 09:45:56,513    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 09:45:56,513    : Mobile number element not found in UI
+2024-08-27 09:46:06,559    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-27 09:46:09,577    : Profile Update Failed
+2024-08-27 09:46:14,599    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-27 09:46:26,914    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 09:46:32,946    : Element not found with ID : //button[@type='button']
+2024-08-27 09:46:33,967    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 27, 2024
+2024-08-27 09:46:36,069    : Driver Closed Successfully
+2024-08-27 09:46:38,230    : Driver Quit Successfully
+2024-08-27 09:46:38,230    : -----Naukri.py Script Run Ended-----
+
+2024-08-27 12:16:15,393    : -----Naukri.py Script Run Begin-----
+2024-08-27 12:16:15,482    : ====== WebDriver manager ======
+2024-08-27 12:16:18,529    : Get LATEST chromedriver version for google-chrome
+2024-08-27 12:16:18,658    : Get LATEST chromedriver version for google-chrome
+2024-08-27 12:16:18,719    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-27 12:16:20,454    : Google Chrome Launched!
+2024-08-27 12:16:21,639    : Website Loaded Successfully.
+2024-08-27 12:16:36,925    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-27 12:16:37,934    : Naukri Login Successful
+2024-08-27 12:16:49,369    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 12:17:10,504    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 12:17:13,533    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 12:17:13,533    : Mobile number element not found in UI
+2024-08-27 12:17:14,539    : Profile Update Successful
+2024-08-27 12:17:19,694    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-27 12:17:31,967    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 12:17:38,007    : Element not found with ID : //button[@type='button']
+2024-08-27 12:17:39,027    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 27, 2024
+2024-08-27 12:17:41,132    : Driver Closed Successfully
+2024-08-27 12:17:43,280    : Driver Quit Successfully
+2024-08-27 12:17:43,280    : -----Naukri.py Script Run Ended-----
+
+2024-08-27 14:45:19,941    : -----Naukri.py Script Run Begin-----
+2024-08-27 14:45:20,004    : ====== WebDriver manager ======
+2024-08-27 14:45:27,050    : Get LATEST chromedriver version for google-chrome
+2024-08-27 14:45:27,168    : Get LATEST chromedriver version for google-chrome
+2024-08-27 14:45:27,269    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-27 14:45:29,032    : Google Chrome Launched!
+2024-08-27 14:45:31,090    : Website Loaded Successfully.
+2024-08-27 14:45:46,357    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-27 14:45:47,365    : Naukri Login Successful
+2024-08-27 14:45:58,747    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 14:46:19,823    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 14:46:22,869    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 14:46:22,869    : Mobile number element not found in UI
+2024-08-27 14:46:23,879    : Profile Update Successful
+2024-08-27 14:46:28,896    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-27 14:46:41,238    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 14:46:47,316    : Element not found with ID : //button[@type='button']
+2024-08-27 14:46:48,339    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 27, 2024
+2024-08-27 14:46:50,438    : Driver Closed Successfully
+2024-08-27 14:46:52,668    : Driver Quit Successfully
+2024-08-27 14:46:52,669    : -----Naukri.py Script Run Ended-----
+
+2024-08-27 16:41:19,206    : -----Naukri.py Script Run Begin-----
+2024-08-27 16:41:19,313    : ====== WebDriver manager ======
+2024-08-27 16:41:22,779    : Get LATEST chromedriver version for google-chrome
+2024-08-27 16:41:22,912    : Get LATEST chromedriver version for google-chrome
+2024-08-27 16:41:22,990    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-27 16:41:24,489    : Google Chrome Launched!
+2024-08-27 16:41:27,460    : Website Loaded Successfully.
+2024-08-27 16:41:43,193    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-27 16:41:44,204    : Naukri Login Successful
+2024-08-27 16:41:55,888    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 16:42:17,153    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 16:42:20,197    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 16:42:20,197    : Mobile number element not found in UI
+2024-08-27 16:42:21,206    : Profile Update Successful
+2024-08-27 16:42:26,232    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-27 16:42:38,550    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 16:42:44,613    : Element not found with ID : //button[@type='button']
+2024-08-27 16:42:45,635    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 27, 2024
+2024-08-27 16:42:47,834    : Driver Closed Successfully
+2024-08-27 16:42:50,010    : Driver Quit Successfully
+2024-08-27 16:42:50,010    : -----Naukri.py Script Run Ended-----
+
+2024-08-27 19:49:38,985    : -----Naukri.py Script Run Begin-----
+2024-08-27 19:49:39,007    : ====== WebDriver manager ======
+2024-08-27 19:49:50,416    : Get LATEST chromedriver version for google-chrome
+2024-08-27 19:49:50,639    : Get LATEST chromedriver version for google-chrome
+2024-08-27 19:49:50,781    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-27 19:49:54,294    : Google Chrome Launched!
+2024-08-27 19:49:55,380    : Website Loaded Successfully.
+2024-08-27 19:50:10,632    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-27 19:50:11,640    : Naukri Login Successful
+2024-08-27 19:50:23,090    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 19:50:44,218    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 19:50:47,227    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-27 19:50:47,227    : Mobile number element not found in UI
+2024-08-27 19:50:48,232    : Profile Update Successful
+2024-08-27 19:50:53,241    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-27 19:51:05,461    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-27 19:51:11,501    : Element not found with ID : //button[@type='button']
+2024-08-27 19:51:12,523    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 27, 2024
+2024-08-27 19:51:14,622    : Driver Closed Successfully
+2024-08-27 19:51:16,789    : Driver Quit Successfully
+2024-08-27 19:51:16,789    : -----Naukri.py Script Run Ended-----
+
+2024-08-28 10:43:59,596    : -----Naukri.py Script Run Begin-----
+2024-08-28 10:43:59,650    : ====== WebDriver manager ======
+2024-08-28 10:44:02,230    : Get LATEST chromedriver version for google-chrome
+2024-08-28 10:44:02,388    : Get LATEST chromedriver version for google-chrome
+2024-08-28 10:44:02,523    : Get LATEST chromedriver version for google-chrome
+2024-08-28 10:44:02,671    : WebDriver version 128.0.6613.84 selected
+2024-08-28 10:44:02,673    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-28 10:44:02,673    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win32/chromedriver-win32.zip
+2024-08-28 10:44:02,914    : Driver downloading response is 200
+2024-08-28 10:44:03,417    : Get LATEST chromedriver version for google-chrome
+2024-08-28 10:44:03,648    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84]
+2024-08-28 10:44:05,243    : Google Chrome Launched!
+2024-08-28 10:44:06,797    : Website Loaded Successfully.
+2024-08-28 10:44:22,088    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-28 10:44:23,097    : Naukri Login Successful
+2024-08-28 10:44:34,548    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-28 10:44:55,684    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 10:44:58,731    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 10:44:58,756    : Mobile number element not found in UI
+2024-08-28 10:45:08,794    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-28 10:45:11,871    : Profile Update Failed
+2024-08-28 10:45:17,093    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-28 10:45:29,525    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-28 10:45:35,558    : Element not found with ID : //button[@type='button']
+2024-08-28 10:45:36,581    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 28, 2024
+2024-08-28 10:45:38,677    : Driver Closed Successfully
+2024-08-28 10:45:40,892    : Driver Quit Successfully
+2024-08-28 10:45:40,893    : -----Naukri.py Script Run Ended-----
+
+2024-08-28 12:36:44,512    : -----Naukri.py Script Run Begin-----
+2024-08-28 12:36:44,603    : ====== WebDriver manager ======
+2024-08-28 12:36:49,873    : Get LATEST chromedriver version for google-chrome
+2024-08-28 12:36:49,967    : Get LATEST chromedriver version for google-chrome
+2024-08-28 12:36:50,027    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-28 12:36:51,449    : Google Chrome Launched!
+2024-08-28 12:36:52,875    : Website Loaded Successfully.
+2024-08-28 12:37:08,572    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-28 12:37:09,581    : Naukri Login Successful
+2024-08-28 12:37:35,295    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 12:37:38,341    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 12:37:38,342    : Mobile number element not found in UI
+2024-08-28 12:37:39,350    : Profile Update Successful
+2024-08-28 12:37:44,356    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-28 12:37:57,074    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-28 12:38:03,131    : Element not found with ID : //button[@type='button']
+2024-08-28 12:38:04,166    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 28, 2024
+2024-08-28 12:38:06,255    : Driver Closed Successfully
+2024-08-28 12:38:08,500    : Driver Quit Successfully
+2024-08-28 12:38:08,501    : -----Naukri.py Script Run Ended-----
+
+2024-08-28 15:21:00,740    : -----Naukri.py Script Run Begin-----
+2024-08-28 15:21:00,748    : ====== WebDriver manager ======
+2024-08-28 15:21:05,048    : Get LATEST chromedriver version for google-chrome
+2024-08-28 15:21:05,200    : Get LATEST chromedriver version for google-chrome
+2024-08-28 15:21:05,291    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.84\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-28 15:21:07,036    : Google Chrome Launched!
+2024-08-28 15:21:08,597    : Website Loaded Successfully.
+2024-08-28 15:21:24,114    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-28 15:21:25,234    : Naukri Login Successful
+2024-08-28 15:21:37,085    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-28 15:21:58,600    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 15:22:01,620    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-28 15:22:01,628    : Mobile number element not found in UI
+2024-08-28 15:22:02,640    : Profile Update Successful
+2024-08-28 15:22:07,664    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-28 15:22:20,526    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-28 15:22:26,718    : Element not found with ID : //button[@type='button']
+2024-08-28 15:22:27,834    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 28, 2024
+2024-08-28 15:22:29,971    : Driver Closed Successfully
+2024-08-28 15:22:32,244    : Driver Quit Successfully
+2024-08-28 15:22:32,244    : -----Naukri.py Script Run Ended-----
+
+2024-08-29 11:04:04,745    : -----Naukri.py Script Run Begin-----
+2024-08-29 11:04:04,828    : ====== WebDriver manager ======
+2024-08-29 11:04:11,234    : Get LATEST chromedriver version for google-chrome
+2024-08-29 11:04:11,349    : Get LATEST chromedriver version for google-chrome
+2024-08-29 11:04:11,410    : There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-08-29 11:04:11,410    : Get LATEST chromedriver version for google-chrome
+2024-08-29 11:04:11,578    : WebDriver version 128.0.6613.86 selected
+2024-08-29 11:04:11,580    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-08-29 11:04:11,581    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-08-29 11:04:11,740    : Driver downloading response is 200
+2024-08-29 11:04:12,312    : Get LATEST chromedriver version for google-chrome
+2024-08-29 11:04:12,620    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-08-29 11:04:14,479    : Google Chrome Launched!
+2024-08-29 11:04:16,696    : Website Loaded Successfully.
+2024-08-29 11:04:32,085    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-29 11:04:33,101    : Naukri Login Successful
+2024-08-29 11:04:44,586    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-29 11:05:05,895    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 11:05:08,915    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 11:05:08,916    : Mobile number element not found in UI
+2024-08-29 11:05:18,993    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-29 11:05:22,054    : Profile Update Failed
+2024-08-29 11:05:27,409    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-29 11:05:38,921    : Element not found with ID : //button[@type='button']
+2024-08-29 11:05:39,953    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 29, 2024
+2024-08-29 11:05:42,054    : Driver Closed Successfully
+2024-08-29 11:05:44,431    : Driver Quit Successfully
+2024-08-29 11:05:44,432    : -----Naukri.py Script Run Ended-----
+
+2024-08-29 12:05:37,320    : -----Naukri.py Script Run Begin-----
+2024-08-29 12:05:37,409    : ====== WebDriver manager ======
+2024-08-29 12:05:39,509    : Get LATEST chromedriver version for google-chrome
+2024-08-29 12:05:39,651    : Get LATEST chromedriver version for google-chrome
+2024-08-29 12:05:39,718    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-29 12:05:41,357    : Google Chrome Launched!
+2024-08-29 12:05:42,621    : Website Loaded Successfully.
+2024-08-29 12:05:57,890    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-29 12:05:58,898    : Naukri Login Successful
+2024-08-29 12:06:10,305    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-29 12:06:31,415    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 12:06:34,422    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 12:06:34,423    : Mobile number element not found in UI
+2024-08-29 12:06:35,431    : Profile Update Successful
+2024-08-29 12:06:40,456    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-29 12:06:52,741    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-29 12:06:58,779    : Element not found with ID : //button[@type='button']
+2024-08-29 12:06:59,803    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 29, 2024
+2024-08-29 12:07:01,918    : Driver Closed Successfully
+2024-08-29 12:07:04,114    : Driver Quit Successfully
+2024-08-29 12:07:04,115    : -----Naukri.py Script Run Ended-----
+
+2024-08-29 17:11:26,588    : -----Naukri.py Script Run Begin-----
+2024-08-29 17:11:26,619    : ====== WebDriver manager ======
+2024-08-29 17:11:30,102    : Get LATEST chromedriver version for google-chrome
+2024-08-29 17:11:30,253    : Get LATEST chromedriver version for google-chrome
+2024-08-29 17:11:30,395    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-29 17:11:33,107    : Google Chrome Launched!
+2024-08-29 17:11:34,282    : Website Loaded Successfully.
+2024-08-29 17:11:49,939    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-29 17:11:50,955    : Naukri Login Successful
+2024-08-29 17:12:02,538    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-29 17:12:24,044    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 17:12:27,063    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-29 17:12:27,063    : Mobile number element not found in UI
+2024-08-29 17:12:28,112    : Profile Update Successful
+2024-08-29 17:12:33,161    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-29 17:12:46,052    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-29 17:12:52,180    : Element not found with ID : //button[@type='button']
+2024-08-29 17:12:53,311    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 29, 2024
+2024-08-29 17:12:55,450    : Driver Closed Successfully
+2024-08-29 17:12:57,687    : Driver Quit Successfully
+2024-08-29 17:12:57,688    : -----Naukri.py Script Run Ended-----
+
+2024-08-30 10:33:19,457    : -----Naukri.py Script Run Begin-----
+2024-08-30 10:33:19,473    : ====== WebDriver manager ======
+2024-08-30 10:33:21,444    : Get LATEST chromedriver version for google-chrome
+2024-08-30 10:33:21,575    : Get LATEST chromedriver version for google-chrome
+2024-08-30 10:33:21,675    : Get LATEST chromedriver version for google-chrome
+2024-08-30 10:33:21,851    : WebDriver version 128.0.6613.86 selected
+2024-08-30 10:33:21,853    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-08-30 10:33:21,853    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-08-30 10:33:21,998    : Driver downloading response is 200
+2024-08-30 10:33:22,515    : Get LATEST chromedriver version for google-chrome
+2024-08-30 10:33:22,747    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-08-30 10:33:24,067    : Google Chrome Launched!
+2024-08-30 10:33:25,195    : Website Loaded Successfully.
+2024-08-30 10:33:40,444    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-30 10:33:41,454    : Naukri Login Successful
+2024-08-30 10:33:53,047    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-30 10:34:14,093    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-30 10:34:17,119    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-30 10:34:17,119    : Mobile number element not found in UI
+2024-08-30 10:34:27,099    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-08-30 10:34:30,170    : Profile Update Failed
+2024-08-30 10:34:35,256    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-30 10:34:47,515    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-30 10:34:53,546    : Element not found with ID : //button[@type='button']
+2024-08-30 10:34:54,565    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 30, 2024
+2024-08-30 10:34:56,684    : Driver Closed Successfully
+2024-08-30 10:34:58,836    : Driver Quit Successfully
+2024-08-30 10:34:58,837    : -----Naukri.py Script Run Ended-----
+
+2024-08-30 12:09:57,322    : -----Naukri.py Script Run Begin-----
+2024-08-30 12:09:57,406    : ====== WebDriver manager ======
+2024-08-30 12:10:03,488    : Get LATEST chromedriver version for google-chrome
+2024-08-30 12:10:03,613    : Get LATEST chromedriver version for google-chrome
+2024-08-30 12:10:03,695    : Driver [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-30 12:10:05,744    : Google Chrome Launched!
+2024-08-30 12:10:07,227    : Website Loaded Successfully.
+2024-08-30 12:10:22,785    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-08-30 12:10:23,858    : Naukri Login Successful
+2024-08-30 12:10:35,467    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-30 12:10:56,944    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-30 12:10:59,987    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-08-30 12:10:59,987    : Mobile number element not found in UI
+2024-08-30 12:11:00,992    : Profile Update Successful
+2024-08-30 12:11:05,996    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-08-30 12:11:18,537    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-08-30 12:11:24,596    : Element not found with ID : //button[@type='button']
+2024-08-30 12:11:25,620    : Resume Document Upload Successful. Last Updated date = Uploaded on Aug 30, 2024
+2024-08-30 12:11:27,711    : Driver Closed Successfully
+2024-08-30 12:11:29,855    : Driver Quit Successfully
+2024-08-30 12:11:29,857    : -----Naukri.py Script Run Ended-----
+
+2024-09-20 10:54:45,413    : -----Naukri.py Script Run Begin-----
+2024-09-20 10:54:45,413    : ====== WebDriver manager ======
+2024-09-20 10:54:50,085    : Get LATEST chromedriver version for google-chrome
+2024-09-20 10:54:50,294    : Get LATEST chromedriver version for google-chrome
+2024-09-20 10:54:50,352    : There is no [win64] chromedriver "128.0.6613.137" for browser google-chrome "128.0.6613" in cache
+2024-09-20 10:54:50,352    : Get LATEST chromedriver version for google-chrome
+2024-09-20 10:54:50,509    : WebDriver version 128.0.6613.137 selected
+2024-09-20 10:54:50,510    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-20 10:54:50,510    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-20 10:54:50,644    : Driver downloading response is 200
+2024-09-20 10:54:51,219    : Get LATEST chromedriver version for google-chrome
+2024-09-20 10:54:51,785    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.137]
+2024-09-20 10:54:54,958    : Google Chrome Launched!
+2024-09-20 10:54:56,499    : Website Loaded Successfully.
+2024-09-20 10:55:12,645    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-09-20 10:55:13,662    : Naukri Login Successful
+2024-09-20 10:55:39,526    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-20 10:55:42,572    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-20 10:55:42,572    : Mobile number element not found in UI
+2024-09-20 10:55:52,763    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-09-20 10:55:55,818    : Profile Update Failed
+2024-09-20 10:56:01,065    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-09-20 10:56:14,128    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-09-20 10:56:20,308    : Element not found with ID : //button[@type='button']
+2024-09-20 10:56:21,434    : Resume Document Upload Successful. Last Updated date = Uploaded on Sep 20, 2024
+2024-09-20 10:56:23,541    : Driver Closed Successfully
+2024-09-20 10:56:25,742    : Driver Quit Successfully
+2024-09-20 10:56:25,742    : -----Naukri.py Script Run Ended-----
+
+2024-09-23 10:15:32,517    : -----Naukri.py Script Run Begin-----
+2024-09-23 10:15:32,534    : ====== WebDriver manager ======
+2024-09-23 10:15:34,785    : Get LATEST chromedriver version for google-chrome
+2024-09-23 10:15:36,114    : Get LATEST chromedriver version for google-chrome
+2024-09-23 10:15:36,260    : Get LATEST chromedriver version for google-chrome
+2024-09-23 10:15:36,514    : WebDriver version 128.0.6613.137 selected
+2024-09-23 10:15:36,516    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-23 10:15:36,517    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-23 10:15:36,670    : Driver downloading response is 200
+2024-09-23 10:15:37,864    : Get LATEST chromedriver version for google-chrome
+2024-09-23 10:15:38,260    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\128.0.6613.137]
+2024-09-23 10:15:40,131    : Google Chrome Launched!
+2024-09-23 10:15:44,334    : Website Loaded Successfully.
+2024-09-23 10:15:59,616    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-09-23 10:16:00,624    : Naukri Login Successful
+2024-09-23 10:16:12,111    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-09-23 10:16:33,288    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-23 10:16:36,302    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-23 10:16:36,302    : Mobile number element not found in UI
+2024-09-23 10:16:46,360    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-09-23 10:16:49,373    : Profile Update Failed
+2024-09-23 10:16:54,386    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-09-23 10:17:06,610    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-09-23 10:17:12,644    : Element not found with ID : //button[@type='button']
+2024-09-23 10:17:13,667    : Resume Document Upload Successful. Last Updated date = Uploaded on Sep 23, 2024
+2024-09-23 10:17:15,763    : Driver Closed Successfully
+2024-09-23 10:17:17,939    : Driver Quit Successfully
+2024-09-23 10:17:17,939    : -----Naukri.py Script Run Ended-----
+
+2024-09-24 11:01:43,516    : -----Naukri.py Script Run Begin-----
+2024-09-24 11:01:43,538    : ====== WebDriver manager ======
+2024-09-24 11:01:46,081    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:01:46,342    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:01:46,461    : There is no [win64] chromedriver "129.0.6668.58" for browser google-chrome "129.0.6668" in cache
+2024-09-24 11:01:46,461    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:01:46,802    : WebDriver version 129.0.6668.58 selected
+2024-09-24 11:01:46,806    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/win32/chromedriver-win32.zip
+2024-09-24 11:01:46,806    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/win32/chromedriver-win32.zip
+2024-09-24 11:01:57,879    : <class 'TypeError'> : expected str, bytes or os.PathLike object, not Options at Line 190.
+2024-09-24 11:01:57,879    : <class 'AttributeError'> : 'NoneType' object has no attribute 'close' at Line 138.
+2024-09-24 11:01:57,879    : <class 'AttributeError'> : 'NoneType' object has no attribute 'quit' at Line 145.
+2024-09-24 11:01:57,879    : -----Naukri.py Script Run Ended-----
+
+2024-09-24 11:02:06,902    : -----Naukri.py Script Run Begin-----
+2024-09-24 11:02:06,902    : ====== WebDriver manager ======
+2024-09-24 11:02:08,676    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:02:08,776    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:02:08,887    : There is no [win64] chromedriver "129.0.6668.58" for browser google-chrome "129.0.6668" in cache
+2024-09-24 11:02:08,887    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:02:09,174    : WebDriver version 129.0.6668.58 selected
+2024-09-24 11:02:09,174    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/win32/chromedriver-win32.zip
+2024-09-24 11:02:09,174    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/win32/chromedriver-win32.zip
+2024-09-24 11:02:09,376    : Driver downloading response is 200
+2024-09-24 11:02:10,550    : Get LATEST chromedriver version for google-chrome
+2024-09-24 11:02:10,956    : Driver has been saved in cache [D:\Python_coding_batman\Naukri-master\Naukri-master\.wdm\drivers\chromedriver\win64\129.0.6668.58]
+2024-09-24 11:02:12,966    : Google Chrome Launched!
+2024-09-24 11:02:23,019    : Website Loaded Successfully.
+2024-09-24 11:02:38,660    : Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+2024-09-24 11:02:39,734    : Naukri Login Successful
+2024-09-24 11:02:51,436    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-09-24 11:03:13,030    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-24 11:03:16,114    : Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+2024-09-24 11:03:16,118    : Mobile number element not found in UI
+2024-09-24 11:03:26,224    : Element not found with XPATH : //*[text()='today' or text()='Today']
+2024-09-24 11:03:29,303    : Profile Update Failed
+2024-09-24 11:03:34,324    : <class 'AttributeError'> : 'PdfWriter' object has no attribute 'addPage' at Line 330.
+2024-09-24 11:03:46,980    : Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+2024-09-24 11:03:53,129    : Element not found with ID : //button[@type='button']
+2024-09-24 11:03:54,153    : Resume Document Upload Successful. Last Updated date = Uploaded on Sep 24, 2024
+2024-09-24 11:03:56,541    : Driver Closed Successfully
+2024-09-24 11:03:58,712    : Driver Quit Successfully
+2024-09-24 11:03:58,712    : -----Naukri.py Script Run Ended-----
+
+2024-09-25 12:06:16,798    : -----Naukri.py Script Run Begin-----
+2024-09-25 12:06:16,813    : ====== WebDriver manager ======
+2024-09-25 12:06:19,425    : Get LATEST chromedriver version for google-chrome
+2024-09-25 12:06:36,455    : Get LATEST chromedriver version for google-chrome
+2024-09-25 12:10:51,888    : -----Naukri.py Script Run Begin-----
+2024-09-25 12:10:51,888    : ====== WebDriver manager ======
+2024-09-25 12:10:53,466    : Get LATEST chromedriver version for google-chrome
+2024-09-25 12:11:34,967    : Get LATEST chromedriver version for google-chrome
+2024-09-25 12:18:32,521    : There is no [win64] chromedriver "129.0.6668.70" for browser google-chrome "129.0.6668" in cache
+2024-09-25 12:18:32,522    : Get LATEST chromedriver version for google-chrome
+2024-09-25 12:20:30,120    : WebDriver version 129.0.6668.70 selected
+2024-09-25 12:20:30,122    : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win32/chromedriver-win32.zip
+2024-09-25 12:20:30,123    : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win32/chromedriver-win32.zip
+2024-09-25 12:20:31,743    : Driver downloading response is 200
